@@ -1,0 +1,3 @@
+class AuthInfo < ApplicationRecord
+  
+end

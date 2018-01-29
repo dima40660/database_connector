@@ -1,0 +1,1 @@
+ClientDB = YAML.load_file(File.join(Rails.root, "config", "client_database.yml"))[Rails.env.to_s]
